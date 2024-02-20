@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/namrata-protfolio/static/css/main.d43698d8.css",
+    "main.js": "/namrata-protfolio/static/js/main.1c9eb698.js",
+    "static/css/64.bba8fa55.chunk.css": "/namrata-protfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.c782d13f.chunk.js": "/namrata-protfolio/static/js/64.c782d13f.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/namrata-protfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bf99be46.chunk.js": "/namrata-protfolio/static/js/769.bf99be46.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/namrata-protfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/qut-logo.png": "/namrata-protfolio/static/media/qut-logo.c47e2df892da8e123f8f.png",
+    "static/media/Agustina.woff": "/namrata-protfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/namrata-protfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/namrata-protfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/namrata-protfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/namrata-protfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/cu-logo.png": "/namrata-protfolio/static/media/cu-logo.2c01ae2d952b8572b5b0.png",
+    "static/media/iiit-delhi.png": "/namrata-protfolio/static/media/iiit-delhi.f93c1a1e3a617f183618.png",
+    "static/media/codeInLogo.webp": "/namrata-protfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/namrata-protfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/namrata-protfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/saayaHealthLogo.webp": "/namrata-protfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/namrata-protfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/namrata-protfolio/index.html",
+    "static/media/talksCardBack.svg": "/namrata-protfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.d43698d8.css.map": "/namrata-protfolio/static/css/main.d43698d8.css.map",
+    "main.1c9eb698.js.map": "/namrata-protfolio/static/js/main.1c9eb698.js.map",
+    "64.bba8fa55.chunk.css.map": "/namrata-protfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.c782d13f.chunk.js.map": "/namrata-protfolio/static/js/64.c782d13f.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/namrata-protfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bf99be46.chunk.js.map": "/namrata-protfolio/static/js/769.bf99be46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43698d8.css",
+    "static/js/main.1c9eb698.js"
+  ]
+}
