@@ -18,7 +18,7 @@ const splashScreen = {
 const illustration = {
   animated: true // Set to false to use static SVG
 };
-
+// djnf
 const greeting = {
   username: "Namrata Bhattacharya",
   title: "Hi all, I'm Narata",
